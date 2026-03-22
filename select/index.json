@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "文學少女",
+  "base_artist": "BURNOUT SYNDROMES",
+  "createdAt": "2026-03-22T14:07:36.568888Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "文學少女",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": false,
+      "path": "select/01_文學少女_BURNOUT_SYNDROMES.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "文學少女",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": false,
+      "path": "select/pl_01_文學少女_BURNOUT_SYNDROMES.txt"
+    }
+  ]
+}
